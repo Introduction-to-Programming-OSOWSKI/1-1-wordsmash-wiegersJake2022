@@ -1,1 +1,3 @@
-#WRITE YOUR CODE HERE
+def wordSmash():
+    print(a,b)
+    wordSmash("cat + dog")
